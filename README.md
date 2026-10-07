@@ -18,9 +18,9 @@ Before that I spent 3+ years at **JPMorgan Chase & Co.** building distributed da
 
 ### Tech
 
-**Languages:** Java · Python · C++ · TypeScript · JavaScript
-**Backend:** Spring Boot · Kafka · Redis · Aurora PostgreSQL · Mockito
-**Infra:** AWS · Kubernetes · Docker · Jenkins · Prometheus
+**Languages:** Java · Python · C++ · TypeScript · JavaScript<br>
+**Backend:** Spring Boot · Kafka · Redis · Aurora PostgreSQL · Mockito<br>
+**Infra:** AWS · Kubernetes · Docker · Jenkins · Prometheus<br>
 **Frontend:** React · Next.js
 
 🏅 [AWS Certified Developer – Associate](https://www.credly.com/go/HUuBO8eOCqJB0HM8jSteXQ) · 🏆 Finalist, American Express Codestreet (top 10 of 10,000+)
